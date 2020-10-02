@@ -28,7 +28,7 @@ I'm a Javascript Developer💻. I'm a passionate learner who's always willing to
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SalmanAhmd).
 - 💬 Ask me about anything, I am happy to help;
 - 📫 &nbsp; How to reach me: salmanahmed1497@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/SalmanResume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/SalmanAhmd/SalmanAhmd/blob/main/SalmanResume.pdf).
 
 **Languages and Tools:** 
 
