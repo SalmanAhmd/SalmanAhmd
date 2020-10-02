@@ -10,11 +10,7 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/salmanansari__)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:salmanahmed1497@gmail.com)
 
-&nbsp;
-
 <!---### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SalmanAhmd&style=flat-square&color=0088cc)-->
-
-&nbsp;
 
 I'm a Javascript Developer💻. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
@@ -27,7 +23,7 @@ I'm a Javascript Developer💻. I'm a passionate learner who's always willing to
 
 
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> PostgreSql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, PostgreSql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SalmanAhmd).
 - 💬 Ask me about anything, I am happy to help;
