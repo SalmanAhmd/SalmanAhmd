@@ -1,5 +1,6 @@
 <!-- Your title -->
-## Hi, I'm Salman Ahmed, a Developer 🚀 from Mumbai.
+## Hi, I'm Salman Ahmed Ansari 👋 from Mumbai.
+**Frontend Engineering Lead | React & React Native | Frontend Architecture**
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -12,7 +13,9 @@ You can use the website to generate badges: https://shields.io/
 
 <!---### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SalmanAhmd&style=flat-square&color=0088cc)-->
 
-I'm a Javascript Developer💻. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+Frontend Engineering Leader with 6+ years of experience building and scaling enterprise web and mobile applications using React.js and React Native.
+
+Currently leading frontend engineering for a multi-tenant InsurTech platform serving 9M+ users across brokers, insurers, employers, and employees. Passionate about frontend architecture, scalable UI systems, performance optimization, and mentoring engineering teams.
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
@@ -23,43 +26,57 @@ I'm a Javascript Developer💻. I'm a passionate learner who's always willing to
 
 
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, PostgreSql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SalmanAhmd).
-- 💬 Ask me about anything, I am happy to help;
-- 📫 &nbsp; How to reach me: salmanahmed1497@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/SalmanAhmd/SalmanAhmd/blob/main/SalmanResume.pdf).
-
-**Languages and Tools:** 
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  <a href="https://github.com/SalmanAhmd">
-    <img width="55%" align="right" alt="Salman's github stats" src="https://github-readme-stats.vercel.app/api?username=SalmanAhmd&show_icons=true&hide_border=true&count_private=true" />
-  </a>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-</p>
+🚀 What I Do
+- Lead frontend engineering teams and drive technical strategy
+- Design scalable multi-tenant and configuration-driven platforms
+- Build enterprise-grade applications using React & React Native
+- Improve application performance, developer experience, and maintainability
+- Mentor engineers and contribute to hiring and team growth
+- Collaborate with product leaders, stakeholders, and enterprise clients
 
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
 
+<br/>
+
+📈 Highlights
+- Built and scaled an InsurTech platform serving 9M+ users
+- Progressed from Founding React Developer → Senior ReactJS Developer → Frontend Engineering Lead
+- Expanded frontend engineering from 3 to 9 developers
+- Delivered 300+ business modules across insurance and employee benefits ecosystems
+- Led React 16 → React 18 migration initiatives
+- Led CRA → Vite migration and frontend modernization efforts
+- Supported onboarding of 12 insurance organizations through scalable architecture
+
+🛠️ Tech Stack
+**Architecture**
+- Frontend Architecture
+- Multi-Tenant Systems
+- Configuration-Driven Platforms
+- Component Architecture
+- Scalable UI Design
+
+**Performance**
+- Code Splitting
+- Lazy Loading
+- Bundle Optimization
+- Image Optimization
+- Vite Migration
+
+**Leadership**
+- Engineering Leadership
+- Team Management
+- Technical Mentoring
+- Hiring & Interviewing
+- Stakeholder Management
+
+🌱 Currently Exploring
+- Modular Monolith Architecture
+- Turborepo & Monorepos
+- Frontend System Design
+- AI-assisted Software Development
+- Scalable Enterprise Frontend Patterns
+
+📫 Connect With Me \
+LinkedIn: https://www.linkedin.com/in/ansari-salman/ \
+Email: salmanahmed1497@gmail.com \
+Location: Mumbai, India
