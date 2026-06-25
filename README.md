@@ -17,6 +17,8 @@ Frontend Engineering Leader with 6+ years of experience building and scaling ent
 
 Currently leading frontend engineering for a multi-tenant InsurTech platform serving 9M+ users across brokers, insurers, employers, and employees. Passionate about frontend architecture, scalable UI systems, performance optimization, and mentoring engineering teams.
 
+Checkout my [Resume](https://github.com/SalmanAhmd/SalmanAhmd/blob/main/SalmanResume.pdf).
+
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
