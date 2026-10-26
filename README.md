@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!---### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SalmanAhmd&style=flat-square&color=0088cc)-->
 
-Frontend Engineering Leader with 7+ years of experience building and scaling enterprise web and mobile applications using React.js and React Native.
+Frontend Engineering Leader with 6.5+ years of experience building and scaling enterprise web and mobile applications using React.js and React Native.
 
 Currently leading frontend engineering for a multi-tenant InsurTech platform serving 9M+ users across brokers, insurers, employers, and employees. Passionate about frontend architecture, scalable UI systems, performance optimization, and mentoring engineering teams.
 
